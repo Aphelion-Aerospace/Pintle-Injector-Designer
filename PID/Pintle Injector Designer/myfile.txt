@@ -1,0 +1,27 @@
+Co-efficient of Thrust = 1.4607016365352494
+
+Area of throat = 0.0013692050107809517 sq.meter
+
+Charecteristic Velocity = 2322.4860286391295
+
+Total mass flow rate = 1.4738571017187594 Kg/sec
+
+Mass flow rate of fuel = 0.42110202906250266 Kg/sec
+
+Mass flow rate of Oxidizer = 1.0527550726562567 Kg/sec
+
+Area of fuel Discharge = 2.7355593902379114E-5 sq.meter
+
+Velocity of fuel Discharge = 19.09880278944401 m/sec
+
+Area of oxidizer Discharge = 5.747921857572821E-5 sq.meter
+
+Velocity of oxidizer Discharge = 16.052062535899918 m/sec
+
+Daimeter of Pintle Rode = 3.75 mm
+
+Diameter of center gap = 5.625 mm
+
+Height of cylinder = 0.704057062417053 mm
+
+Annular Gap = -1.0 mm

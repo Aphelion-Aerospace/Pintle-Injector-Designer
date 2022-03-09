@@ -1,0 +1,12 @@
+Co-efficient of Thrust = 0.0
+
+Area of throat = 0.0 sq.meter
+
+Charecteristic Velocity = 0.0
+
+Total mass flow rate = 0.0 Kg/sec
+
+Mass flow rate of fuel = 0.0 Kg/sec
+
+Mass flow rate of Oxidizer = 0.0 Kg/sec
+
